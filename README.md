@@ -52,14 +52,14 @@ With this kind of identification and localization, object detection can be used 
   
   <h1> Screenshots </h1>
   <h2> Input Screen </h2>
-<img src="Screenshots/Screenshot (0).png" /> 
-  <img src="Screenshots/Screenshot (1).png" /> 
+
+  <img src="Screenshots/Screenshot (2).png" /> 
   
   <br><br>
   
 <h2> Output Screen </h2> 
 
-  <img src="Screenshots/Screenshot (2).png" /> 
+  <img src="Screenshots/Screenshot (1).png" /> 
   
   <br><br>
 
